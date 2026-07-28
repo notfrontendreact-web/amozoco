@@ -1,0 +1,6 @@
+{
+  "name": "فروشگاه آنلاین آموزکو",
+  "description": "فروشگاه آنلاین پیشرفته فارسی با اسلایدرهای متنوع، منوی مگا، درگاه پرداخت بانکی، فروشگاه جامع و صفحات ارتباط و درباره ما",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
