@@ -8,8 +8,8 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 export default defineConfig(() => {
   return {
-    // ⚠️ نام ریپازیتوری شما در گیت‌هاب: shickson
-    base: '/amozoco/',
+    // 👈 برای Render حتماً باید ریشه ('/') باشد
+    base: '/',
     
     plugins: [react(), tailwindcss()],
     
